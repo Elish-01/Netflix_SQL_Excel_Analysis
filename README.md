@@ -46,13 +46,13 @@
 
 ## Imp SQL skill demonstrated
 
--Recursive CTE
--Window Function
--String Function
--Aggregation
--ranking
--Grouping and filtering
--Data cleaning
+ -Recursive CTE
+ -Window Function
+ -String Function
+ -Aggregation
+ -ranking
+ -Grouping and filtering
+ -Data cleaning
 
 
 ## conclusion
