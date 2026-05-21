@@ -1,4 +1,4 @@
-#Netflix content Analysis Project Using SQL and Excel
+@Netflix content Analysis Project Using SQL and Excel
 ##Overview
   -This project analyzes Netflix content to find the content growth, genre distribution, country wise production, and the ratio of the Netflix content of Movies vs TV Show
   -SQL is used for data manipulation, filtering and data transformation by writing queries while excel is used for data visualization and dashboards.
